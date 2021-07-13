@@ -1,0 +1,9 @@
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\Bernardin\Desktop\DatingApp-master\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
